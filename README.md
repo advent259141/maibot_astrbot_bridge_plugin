@@ -1,0 +1,2 @@
+# maibot_astrbot_bridge_plugin
+astrbot_plugin_maibot的maibot侧配套插件，负责工具桥接
